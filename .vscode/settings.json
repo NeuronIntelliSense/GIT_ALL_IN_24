@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "neuronintellisense",
+        "projectKey": "NeuronIntelliSense_GIT_ALL_IN_24"
+    }
+}
